@@ -44,7 +44,7 @@
 </head>
 <body>
     <div class="details">
-        <p><strong>Date:</strong> Saturday, July 15, 2024</p>
+        <p><strong>Date:</strong> Saturday, July 15, 2025</p>
         <p><strong>Time:</strong> 3:00 PM - 7:00 PM</p>
         <p><strong>Location:</strong> 123 Sunshine Lane, Green Valley</p>
         <p><strong>Dress Code:</strong> Casual Summer Attire</p>
