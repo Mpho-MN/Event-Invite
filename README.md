@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -67,4 +67,4 @@
 
     <button id="rsvp-button">RSVP Now!</button>
 </body>
-</html># Event-Invite
+
